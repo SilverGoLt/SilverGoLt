@@ -1,6 +1,8 @@
 # 💫 About Me:
 FiveM / Front-End Projects<br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Haroki-CR&label=Profile%20views&color=0e75b6&style=flat" alt="SilverGoLt" /> </p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Haroki#8332) 
